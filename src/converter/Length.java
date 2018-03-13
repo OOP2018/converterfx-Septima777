@@ -1,5 +1,10 @@
 package converter;
 
+/**
+ * enum class that collect unit of length.
+ * @author Noppawan Kulchol
+ *
+ */
 public enum Length {
 	
 	/* value of each unit */
