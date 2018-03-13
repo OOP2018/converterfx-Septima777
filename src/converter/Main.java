@@ -5,8 +5,16 @@ import javafx.fxml.FXMLLoader;
 import javafx.stage.Stage;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
-
+/**
+ * This class use for run application.
+ * @author Noppawan Kulchol
+ *
+ */
 public class Main extends Application {
+	
+	/**
+	 * Set stage and scene to show the program.
+	 */
 	@Override
 	public void start(Stage primaryStage) {
 		try {
